@@ -20,7 +20,7 @@ data/ # Sample or anonymized data (if any)
 
 
 ## Screenshots
-![Overview](assets/screenshots/overview.png)
+![Overview](Healthcare-Waitlist-Dashboard/assets/screenshots/overview.png)
 
 
 ## How to Use
